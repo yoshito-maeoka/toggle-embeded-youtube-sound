@@ -1,4 +1,10 @@
-# toggle-embeded-videosound
+# toggle-embeded-youtube-sound
+
+this vue component allows to toggle your youtube video sound.
+
+# Usage
+tbd
+
 
 ## Project setup
 ```
